@@ -23,14 +23,17 @@ Snapchat Political Ads Data Set:https://github.com/Miya-herman/Evaluating-snapch
 Political Ads Analysis: https://github.com/Miya-herman/Evaluating-snapchat-political-ads/blob/master/Analysis_of_political_ads.xls
 
 Step by Step:
+
 Maipulating the data:
 1) I added filters to the country code column so that I could narrow down the data to only advertisements in the U.S.
 2) In order to determine the amount of days each advertisement ran, I had to subtract the StartDate column from EndDate. However, the date cells included time values, which prevented me from performing this operation initially. I had to create two new colums which held the correctly formatted dates without the time values, which I did by using the =Left command and only selecting the yyyy/mm/dd characters. 
 3) I was then able to subtract the dates using =DATEDIF to create the run_length column
+
 Single Linear Regression:
 4) I copied Spend and Impressions into a new sheet, and inserted a scatterplot of the data
 5) I then inserted a trendline, and formatted it to make it more visible against the data. I inserted the R^2 value and trendline equation onto the chart
 6) I repeated steps 4-5 using run_length and Impressions
+
 Multiple Linear Regression:
 7) When I attempted to perform a regression data analysis of both independent variables, I was getting an error that reported the fields contained non-numeric values. I ensured there were no blanks or text fields in either column, but the error persisted. I was able to resolve this error by copying each desired column (Impressions, run_length, and Spend) into a new sheet, which then allowed me to perform the regression analysis
 8) I clicked on the data analysis tool box, selected regression, and input Impression for the y-value, and run_length and Spend in the x-value box. I then ran the regression and the outputs appeared in a new sheet.
