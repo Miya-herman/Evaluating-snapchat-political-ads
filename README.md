@@ -6,8 +6,8 @@ Data Anlysis: I performed this analysis by manipulating the data set to extract 
 Findings: I found that neither variable had a strong correlation with the number of impressions, especially the number of days run. This means that advertisers should not rely on the number of dollars spent or the length of the run to ensure a high number of impressions. In pursuing this matter further, I believe it may be helpful to research information on other factors that go into digital media advertising. For example, advertising on certain stories or channels on snapchat's platform may result in vastly different numbers of impressions. 
 
 Data Vizualizations:
-![](Screen%Shot%2020-02-28%at%11.34.20%AM.png)
-![](Screen%Shot%2020-02-28%at%11.34.29%AM.png)
+![](https://github.com/Miya-herman/Evaluating-snapchat-political-ads/blob/master/Screen%20Shot%202020-02-28%20at%2011.34.20%20AM.png)
+![](https://github.com/Miya-herman/Evaluating-snapchat-political-ads/blob/master/Screen%20Shot%202020-02-28%20at%2011.34.29%20AM.png)
 
 Business Question: What independent factors contribute the most to the success of a snpachat political advertisement?
 Data Question: What is the correlation between number of dollars spent/number of days run and number of impressions for a snapchat political advertisement?
