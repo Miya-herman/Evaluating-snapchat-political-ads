@@ -1,11 +1,11 @@
 # Evaluating-snapchat-political-ads
 Mini Project #2
 
-Dataset Background: The data set I chose was the 2020 snapchat political advertisements library. I chose to analyze this data because I was interested in how political campaigns target my age demographic, and how different factors contirubted to the success of these advertising campaigns.
+Dataset Background: The data set I chose was the 2020 snapchat political advertisements library. I chose to analyze this data because I was interested in how political campaigns target my age demographic, and how different factors contributed to the success of these advertising campaigns.
 
-Data Anlysis: I performed this analysis by manipulating the data set to extract the independant variable values for the number of dollars (in USD) spent on an ad, and the number of days the ad ran. I then performed a single regression analysis for each of these independent variables, and a multiple regression analysis for both variables. 
+Data Analysis: I performed this analysis by manipulating the data set to extract the independent variable values for the number of dollars (in USD) spent on an ad, and the number of days the ad ran. I then performed a single regression analysis for each of these independent variables, and a multiple regression analysis for both variables. 
 
-Findings: I found that neither variable had a strong correlation with the number of impressions, especially the number of days run. This means that advertisers should not rely on the number of dollars spent or the length of the run to ensure a high number of impressions. In pursuing this matter further, I believe it may be helpful to research information on other factors that go into digital media advertising. For example, advertising on certain stories or channels on snapchat's platform may result in vastly different numbers of impressions. 
+Findings: I found that neither variable had a strong correlation with the number of impressions, especially the number of days run. Advertisers should not rely on the number of dollars spent or the length of the run to ensure a high number of impressions. I believe it may be helpful to research information on other factors that go into digital media advertising. For example, advertising on certain stories or channels on snapchat's platform may result in vastly different numbers of impressions. 
 
 Data Vizualizations:
 ![](https://github.com/Miya-herman/Evaluating-snapchat-political-ads/blob/master/Screen%20Shot%202020-02-28%20at%2011.34.20%20AM.png)
